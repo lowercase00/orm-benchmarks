@@ -21,6 +21,10 @@ psycopg2 = "*"
 # Recommended accelerators
 uvloop = "*"
 python-rapidjson = "*"
+# New drivers
+aiosqlite = "*"
+aiomysql = "*"
+
 
 [tool.poetry.dev-dependencies]
 # Testing tools
